@@ -3,7 +3,7 @@
 #
 # Released under the MIT license.
 
-FROM ubuntu:16.04
+FROM ubuntu:17.04
 
 MAINTAINER Péter Szilágyi <peterke@gmail.com>
 
